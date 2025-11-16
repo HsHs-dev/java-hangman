@@ -11,7 +11,7 @@ This is a small Java Hangman game. Follow the steps below to run it.
 First clone the reop using
 
 ```bash
-https://github.com/HsHs-dev/java-hangman.git
+git clone https://github.com/HsHs-dev/java-hangman.git
 ```
 
 then change directory into it
