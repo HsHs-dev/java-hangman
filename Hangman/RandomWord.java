@@ -12,7 +12,7 @@ class RandomWord {
 
     static void initiateWords() throws FileNotFoundException {
 
-        Scanner input = new Scanner(new File("../words.txt"));
+        Scanner input = new Scanner(new File("words.txt"));
 
         // store the words from the file in a list
         while (input.hasNext())
